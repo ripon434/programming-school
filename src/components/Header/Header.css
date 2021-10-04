@@ -1,0 +1,23 @@
+.container{
+ margin: 10px;
+ display: grid;
+justify-items: stretch;
+text-decoration: none;
+
+
+
+}
+.navbar{
+border: 5px seashell;
+
+text-decoration: none;
+background-color: antiquewhite;
+}
+.home{
+    text-decoration: none;
+margin: 10px;
+}
+h1{
+    color: rgb(180, 101, 4);
+    text-transform: uppercase;
+}

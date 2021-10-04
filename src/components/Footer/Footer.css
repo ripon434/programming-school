@@ -1,0 +1,19 @@
+
+.Appp{
+color: #228b22;
+text-align: center;
+border: 4px solid saddlebrown;
+border-radius: 20px;
+background-color: antiquewhite;
+
+
+}
+.footer {
+background-color: green;
+
+position: fixed;
+width: 100%;
+border-radius: 20px;
+font-size: 25px;
+
+}
